@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP XL4005
+D 5A 300KHz 32V Buck DC to DC Converter
+K buck, dc-dc
+F https://datasheet.lcsc.com/lcsc/1808111512_XLSEMI-XL4005E1_C73332.pdf
+$ENDCMP
+#
+#End Doc Library
