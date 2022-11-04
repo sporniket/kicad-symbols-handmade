@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP IP2721
-D TYPEC/PD2.0/PD3.0 Physical Layer IC for USB TYPEC input Interfaces
-K usb-pd,usb-c
-F https://datasheet.lcsc.com/lcsc/2006111335_INJOINIC-IP2721_C603176.pdf
-$ENDCMP
-#
-#End Doc Library
