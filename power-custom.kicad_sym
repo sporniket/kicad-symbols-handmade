@@ -46,7 +46,7 @@
     )
     (symbol "+12V_1_1"
       (pin power_in line (at 0 0 90) (length 0) hide
-        (name "+18V" (effects (font (size 1.27 1.27))))
+        (name "+12V" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
       )
     )
@@ -98,7 +98,7 @@
     )
     (symbol "+12V_Protected_1_1"
       (pin power_in line (at 0 0 90) (length 0) hide
-        (name "+18V" (effects (font (size 1.27 1.27))))
+        (name "+12V_Protected" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
       )
     )
@@ -150,7 +150,7 @@
     )
     (symbol "+12V_Raw_1_1"
       (pin power_in line (at 0 0 90) (length 0) hide
-        (name "+18V" (effects (font (size 1.27 1.27))))
+        (name "+12V_Raw" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
       )
     )
@@ -306,7 +306,7 @@
     )
     (symbol "+18V_Raw_1_1"
       (pin power_in line (at 0 0 90) (length 0) hide
-        (name "+18V" (effects (font (size 1.27 1.27))))
+        (name "+18V_Raw" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
       )
     )
